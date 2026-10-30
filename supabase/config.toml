@@ -1,0 +1,2 @@
+[functions.event-plan]
+verify_jwt = true
